@@ -1,16 +1,9 @@
-# ai_voice_assistant
+# Patrick- ChatGPT + DALL-E
 
-A new Flutter project.
+The Patrick is a application integrated with chatGPT and DALL-E where use can easily ask whatever they want to ask to AI.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot_1683201988](https://user-images.githubusercontent.com/71727151/236606673-dd9d1013-9be6-478e-b52a-647049160f9c.png)
+![Screenshot_1683202066](https://user-images.githubusercontent.com/71727151/236606730-d67b413a-a5b3-43bd-a197-3a5ba12f6158.png)
+![Screenshot_1683202272](https://user-images.githubusercontent.com/71727151/236606750-ca533d22-a9b0-4e61-8aa5-f088adb478bd.png)
