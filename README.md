@@ -1,6 +1,7 @@
 # Patrick- ChatGPT + DALL-E
 
 The Patrick is a application integrated with chatGPT and DALL-E where use can easily ask whatever they want to ask to AI.
+Also it can work as voice assistant so user can able to speak their questions and get answers from AI.
 
 
 ## Screenshots
